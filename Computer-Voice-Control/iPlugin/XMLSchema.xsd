@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="PlugIn">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="Sprache">
+            <xs:complexType>
+              <xs:choice>
+                <xs:element name ="Deutsch">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Befehle"  maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="Sprachbefehl" type="xs:string" />
+                            <xs:element name="Methodebefehl" type="xs:string" />
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:sequence>
+        <xs:attribute name="pfad" type="xs:string"/>
+      </xs:complexType>
+    </xs:element>
+</xs:schema>
+
+
+

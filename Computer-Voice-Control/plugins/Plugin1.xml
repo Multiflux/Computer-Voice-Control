@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<PlugIn pfad="C:/Users/Chris/Desktop/Rapha/Projects/csharp/ArcSolUya/Sprint 5.0/Projekt 5.0/Plugin1/obj/Debug/Plugin1.dll" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="File:///C:/Users/Chris/Desktop/Rapha/Projects/csharp/ArcSolUya/Sprint 5.0/Projekt 5.0/iPlugin/XMLSchema.xsd">
+  <Sprache>
+    <Deutsch>
+      <Befehle>
+        <Sprachbefehl>Hello</Sprachbefehl>
+        <Methodebefehl>f1</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Wieviel Uhr ist es</Sprachbefehl>
+        <Methodebefehl>currentTime</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Google</Sprachbefehl>
+        <Methodebefehl>open_google</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Links Click</Sprachbefehl>
+        <Methodebefehl>leftClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Doppelter Click</Sprachbefehl>
+        <Methodebefehl>doubleLeftClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Rechts Click</Sprachbefehl>
+        <Methodebefehl>rightClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Start Click</Sprachbefehl>
+        <Methodebefehl>startLeftClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Ende Click</Sprachbefehl>
+        <Methodebefehl>endLeftClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Runter Scrollen</Sprachbefehl>
+        <Methodebefehl>scrollDown</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Hoch Scrollen</Sprachbefehl>
+        <Methodebefehl>scrollUp</Methodebefehl>
+      </Befehle>
+    </Deutsch>
+  </Sprache>
+  </PlugIn>
+

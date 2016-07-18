@@ -1,0 +1,18 @@
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\iPlugin\obj\Debug\iPlugin.dll
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\iPlugin\bin\Debug\iPlugin.dll
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\iPlugin\bin\Debug\iPlugin.pdb
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\iPlugin\obj\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\iPlugin\bin\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\iPlugin\bin\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\iPlugin\obj\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\iPlugin\obj\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\iPlugin\bin\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\iPlugin\bin\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\iPlugin\obj\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\iPlugin\obj\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\iPlugin\obj\Debug\iPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Projekt_5.0\iPlugin\bin\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Projekt_5.0\iPlugin\bin\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Projekt_5.0\iPlugin\obj\Debug\iPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Projekt_5.0\iPlugin\obj\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Projekt_5.0\iPlugin\obj\Debug\iPlugin.pdb

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlugIn pfad="C:/Users/Raphael/Desktop/Projekt_5.0/Plugin1/obj/Debug/PluginComputerControl.dll"> <!-- PATH TO YOUR PLUGIN DLL -->
+  <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="File:///C:/Users/Chris/Desktop/Rapha/Projects/csharp/ArcSolUya/Sprint_5.0/Projekt_5.0/iPlugin/XMLSchema.xsd"-->
+  <Sprache>
+    <Deutsch>
+      <Befehle>
+        <Sprachbefehl>Left Click</Sprachbefehl>
+        <Methodebefehl>leftClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Right Click</Sprachbefehl>
+        <Methodebefehl>rightClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Hello</Sprachbefehl>
+        <Methodebefehl>f1</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>what time is it</Sprachbefehl>
+        <Methodebefehl>currentTime</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Open google</Sprachbefehl>
+        <Methodebefehl>open_google</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Center the mouse</Sprachbefehl>
+        <Methodebefehl>centerIt</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Double Click</Sprachbefehl>
+        <Methodebefehl>doubleLeftClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Start Click</Sprachbefehl>
+        <Methodebefehl>startLeftClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>End Click</Sprachbefehl>
+        <Methodebefehl>endLeftClick</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Scroll a bit down</Sprachbefehl>
+        <Methodebefehl>scrollDown</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Scroll a bit up</Sprachbefehl>
+        <Methodebefehl>scrollUp</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Start Scrolling</Sprachbefehl>
+        <Methodebefehl>startScrolling</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>End Scrolling</Sprachbefehl>
+        <Methodebefehl>EndScrolling</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>Copy that</Sprachbefehl>
+        <Methodebefehl>copyToClip</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>paste it here</Sprachbefehl>
+        <Methodebefehl>pasteHereFromClip</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>enter</Sprachbefehl>
+        <Methodebefehl>enter</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>minimize that</Sprachbefehl>
+        <Methodebefehl>minimizeCurrentWindow</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>maximize that</Sprachbefehl>
+        <Methodebefehl>maximizeCurrentWindow</Methodebefehl>
+      </Befehle>
+      <Befehle>
+        <Sprachbefehl>restore that down</Sprachbefehl>
+        <Methodebefehl>restoreDownCurrentWindow</Methodebefehl>
+      </Befehle>
+    </Deutsch>
+  </Sprache>
+</PlugIn>
+

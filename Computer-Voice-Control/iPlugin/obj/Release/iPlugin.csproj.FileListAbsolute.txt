@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\iPlugin\bin\Release\iPlugin.dll
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\iPlugin\bin\Release\iPlugin.pdb
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\iPlugin\obj\Release\iPlugin.dll
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\iPlugin\obj\Release\iPlugin.pdb

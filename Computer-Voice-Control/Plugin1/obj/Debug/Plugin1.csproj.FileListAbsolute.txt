@@ -1,0 +1,17 @@
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Plugin1\obj\Debug\Plugin1.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Plugin1\obj\Debug\Plugin1.pdb
+C:\Users\Windows\Temp\Spracherkennung\Plugins_Spracherkennung\Plugin1.xml
+C:\Users\Windows\Temp\Spracherkennung\Plugins_Spracherkennung\Plugin1.dll
+C:\Users\Windows\Temp\Spracherkennung\Plugins_Spracherkennung\Plugin1.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Plugin1\obj\Debug\Plugin1.csprojResolveAssemblyReference.cache
+C:\Windows\Temp\Spracherkennung\Plugins_Spracherkennung\Plugin1.xml
+C:\Windows\Temp\Spracherkennung\Plugins_Spracherkennung\Plugin1.dll
+C:\Windows\Temp\Spracherkennung\Plugins_Spracherkennung\Plugin1.pdb
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Plugin1\obj\Debug\Plugin1.dll
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Plugin1\obj\Debug\Plugin1.pdb
+C:\Users\Chris\Desktop\Projekt_5.0\Plugin1\obj\Debug\Plugin1.dll
+C:\Users\Chris\Desktop\Projekt_5.0\Plugin1\obj\Debug\Plugin1.pdb
+C:\Users\Chris\Desktop\Projekt_5.0\Plugin1\obj\Debug\Plugin1.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Desktop\Projekt_5.0\Plugin1\obj\Debug\Plugin1.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Desktop\Projekt_5.0\Plugin1\obj\Debug\Plugin1.dll
+C:\Users\Raphael\Desktop\Projekt_5.0\Plugin1\obj\Debug\Plugin1.pdb

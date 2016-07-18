@@ -1,0 +1,78 @@
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt 5.0.exe
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Form1.resources
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Properties.Resources.resources
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csproj.GenerateResource.Cache
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe.config
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\Projekt 5.0.pdb
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\iPlugin.dll
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\iPlugin.pdb
+C:\Users\Raphael\Desktop\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt 5.0.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Form1.resources
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Properties.Resources.resources
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe.config
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\Projekt 5.0.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\SharpDX.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\SharpOVR.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\SharpDX.xml
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\bin\Debug\SharpOVR.xml
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt 5.0.exe
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint 5.0\Projekt 5.0\Projekt 5.0\obj\Debug\Projekt 5.0.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe.config
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\bin\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\bin\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Form1.resources
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Properties.Resources.resources
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.exe
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.pdb
+C:\Users\Chris\Desktop\Rapha\Projects\csharp\ArcSolUya\Sprint_5.0\Projekt_5.0\Projekt 5.0\bin\Debug\SpeechClient.dll
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe.config
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.exe
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.pdb
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.pdb
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Debug\iPlugin.dll
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Debug\iPlugin.pdb
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Form1.resources
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Properties.Resources.resources
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe.config
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.exe
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.pdb
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.pdb
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\iPlugin.dll
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\iPlugin.pdb
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Form1.resources
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Properties.Resources.resources
+C:\Users\Chris\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csproj.GenerateResource.Cache
+E:\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe.config
+E:\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.exe
+E:\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.pdb
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe.config
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.exe
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.pdb
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.exe
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\Projekt 5.0.pdb
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\iPlugin.dll
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\bin\Debug\iPlugin.pdb
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Form1.resources
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt_5._0.Properties.Resources.resources
+C:\Users\Raphael\Desktop\Projekt_5.0\Projekt 5.0\obj\Debug\Projekt 5.0.csproj.GenerateResource.Cache

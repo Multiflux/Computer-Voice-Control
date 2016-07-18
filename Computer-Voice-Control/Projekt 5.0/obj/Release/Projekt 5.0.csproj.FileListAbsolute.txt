@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Release\Projekt 5.0.exe.config
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Release\Projekt 5.0.exe
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Release\Projekt 5.0.pdb
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Release\iPlugin.dll
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\bin\Release\iPlugin.pdb
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Release\Projekt 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Release\Projekt_5._0.Form1.resources
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Release\Projekt_5._0.Properties.Resources.resources
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Release\Projekt 5.0.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Release\Projekt 5.0.exe
+C:\Users\Admin\Desktop\ArcSolUya\Projekt_5.0\Projekt 5.0\obj\Release\Projekt 5.0.pdb
